@@ -5,7 +5,7 @@
 - 👀 I’m interested in ethical hacking
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: eceeyurtseven@gmail.com
-- 🚀 My website: eceyurtseven.com
+- 🚀 My website: [eceyurtseven.com](https://eceyurtseven.com/)
 - ⚡️ Fun fact: My hobbies are swimming and horseback riding
 
 <!--
